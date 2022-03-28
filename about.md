@@ -5,6 +5,10 @@ title: About
 
 # Pablo Ramírez Solórzano - Software Engineer
 
+## SKILLS
+
+Java 8/11, Spring, MongoDB, Git, Kafka, JUnit, Cucumber, Jenkins...
+
 ## EXPERIENCE
 
 ### Software Engineer II | Nextiva | September 2020 - present
