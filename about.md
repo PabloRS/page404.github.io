@@ -3,13 +3,7 @@ layout: post
 title: About
 ---
 
-[Twitter](https://twitter.com/PabloRS1989)
-
-[GitHub](https://github.com/PabloRS)
-
 # Pablo Ramírez Solórzano - Software Engineer
-
-*email:* prmzs89@hotmail.com
 
 ## EXPERIENCE
 
