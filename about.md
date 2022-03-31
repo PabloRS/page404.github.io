@@ -7,7 +7,9 @@ title: About
 
 ## SKILLS
 
-Java 8/11, Spring, MongoDB, Git, Kafka, JUnit, Cucumber, Jenkins...
+### Tech skills.
+
+Java 8/11, Spring, MongoDB, Git, Kafka, JUnit, Mockito, Cucumber, Jenkins, Docker, Linux, Go
 
 ## EXPERIENCE
 
