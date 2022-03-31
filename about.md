@@ -9,7 +9,12 @@ title: About
 
 ### Tech skills.
 
-Java 8/11, Spring, MongoDB, Git, Kafka, JUnit, Mockito, Cucumber, Jenkins, Docker, Linux, Go
+Java 8/11, Spring, MongoDB, Git, Kafka, JUnit, Mockito, Cucumber, Jenkins, Docker, Linux, Go.
+
+### Soft skills.
+
+- Spanish - Native speaker.
+- English - Advanced.
 
 ## EXPERIENCE
 
@@ -38,3 +43,7 @@ Desktop and mobile app development with Java, JavaFX, and Android to manipulate 
 ### Master certificate in Computer Science | Universidad de Colima | August 2014 - June 2016
 
 ### Bachelor degree in Computer Science | Instituto Tecnológico de Ciudad Guzmán | August 2008 - February 2013
+
+## CERTIFICATIONS
+
+Sun Certified Programmer Java SE 6 - 2010
