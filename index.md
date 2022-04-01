@@ -1,3 +1,3 @@
 [About me](about)
 
-[I finished the University. ¿Now what?](/_posts/graduated.md)
+[I finished the University. ¿Now what?](graduated)
